@@ -24,13 +24,7 @@
         height="430"
         src="https://console.dialogflow.com/api-client/demo/embedded/df5e4bfc-1fb5-45eb-aebd-5c0148aa95e1"
     ></iframe>-->
-    <df-messenger
-      chat-icon="f8dd78d6-1704-4697-a88d-e1f04ce67a54_x.png"
-      intent="WELCOME"
-      chat-title="Cura"
-      agent-id="df5e4bfc-1fb5-45eb-aebd-5c0148aa95e1"
-      language-code="en"
-    ></df-messenger>
+    
     <footer class="footer noselect">
       <div class="container">
         <div class="flex">

@@ -23,7 +23,7 @@
             <br />
             <br />
           </div>
-          <img src="@/assets/safarweb.png" alt class="floating mockup" draggable="false" />
+          <img src="https://cdn.discordapp.com/attachments/728833883906244611/748277470477811772/Artboard_2.png" alt class="floating mockup" draggable="false" />
         </div>
       </div>
     </div>
