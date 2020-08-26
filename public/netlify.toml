@@ -1,0 +1,15 @@
+[[redirects]]
+  from = "/present"
+  to = "https://docs.google.com/presentation/d/1pdfX32vAxwiUQw27m2o2Y14uZts3Ykcj0B9hCOYgtcs/edit?usp=sharing"
+
+[[redirects]]
+  from = "/video"
+  to = "https://www.youtube.com/watch?v=a_q7ZofaKdM"
+
+
+
+
+[[redirects]]
+  from = "/*"
+  to = "index.html"
+	status = 200
