@@ -77,7 +77,7 @@
       <div>
         <iframe
           width="100%"
-          src="https://youtu.be/ZdKAmLO8RA0"
+          src="https://www.youtube.com/watch?v=ZdKAmLO8RA0&feature=youtu.be"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
