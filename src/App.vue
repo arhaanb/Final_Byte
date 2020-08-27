@@ -29,13 +29,13 @@
       <div class="container">
         <div class="flex">
           <div class="socials">
-            <a href="//github.com/akshat-creator/Handdy-Manny" class="link" target="_blank">Source</a>
+            <a href="//github.com/arhaanb/Final_Byte" class="link" target="_blank">Source</a>
             <a href="//github.com/arhaanb/safar" class="link" target="_blank">App Source</a>
             <br class="anti-nvm" />
             <a href="//arhaanb.co" class="link" target="_blank">Arhaan</a>
             <a href="//aditya-pramar.herokuapp.com" class="link" target="_blank">Aditya</a>
             <a href="//instagram.com/sidthesketcher" class="link" target="_blank">Siddhayak</a>
-            <a href="//https://github.com/akshat-creator" class="link" target="_blank">Akshat</a>
+            <a href="//github.com/akshat-creator" class="link" target="_blank">Akshat</a>
           </div>
           <h6 class="title text">
             Made with
